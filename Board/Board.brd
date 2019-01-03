@@ -162,7 +162,7 @@
 <layer number="255" name="Accent" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyOWFjMzc0" projecturn="a.cGVyc29uYWw6dWUyOWFjMzc0IzIwMTkwMTAyMTY4MDczMjUx" f3durn="urn:adsk.wipprod:dm.lineage:JOtnRtDvSv2tFhGpGAsgoA" pcbguid="7161ccc7-0113-4bd4-aaf9-42328c171bd9" lastpulledtime="" lastsyncedchangeguid="4721132a-633d-c606-bd58-af33b9c11df8"/>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyOWFjMzc0" projecturn="a.cGVyc29uYWw6dWUyOWFjMzc0IzIwMTkwMTAyMTY4MDczMjUx" f3durn="urn:adsk.wipprod:dm.lineage:JOtnRtDvSv2tFhGpGAsgoA" pcbguid="7161ccc7-0113-4bd4-aaf9-42328c171bd9" lastpulledtime="" lastsyncedchangeguid="5b0e3d4d-5db5-f70c-a508-fe33eb7d4fd9"/>
 <plain>
 <wire x1="0" y1="69" x2="0" y2="8" width="0" layer="20"/>
 <wire x1="0" y1="69" x2="4.5" y2="69" width="0" layer="20"/>
@@ -318,7 +318,7 @@ type 0207, grid 2.5 mm</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="CK101X12" urn="urn:adsk.eagle:package:7745365/5" type="model" library_version="9">
+<package3d name="CK101X12" urn="urn:adsk.eagle:package:7745365/6" type="model" library_version="10">
 <description>&lt;b&gt;ROTARY SWITCH&lt;/b&gt;&lt;p&gt;
 C&amp;K</description>
 <packageinstances>
@@ -744,25 +744,25 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="1Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/5" value="CK101X12" x="91.875" y="26" smashed="yes">
+<element name="1Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/6" value="CK101X12" x="91.875" y="26" smashed="yes">
 <attribute name="NAME" x="91.875" y="26" size="1.9304" layer="26" ratio="10" rot="MR0" align="center"/>
 </element>
-<element name="10Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/5" value="CK101X12" x="65.625" y="26" smashed="yes">
+<element name="10Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/6" value="CK101X12" x="65.625" y="26" smashed="yes">
 <attribute name="NAME" x="65.625" y="26" size="1.9304" layer="26" font="vector" ratio="10" rot="MR0" align="center"/>
 </element>
-<element name="100Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/5" value="CK101X12" x="39.375" y="26" smashed="yes">
+<element name="100Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/6" value="CK101X12" x="39.375" y="26" smashed="yes">
 <attribute name="NAME" x="39.375" y="26" size="1.9304" layer="26" font="vector" ratio="10" rot="MR0" align="center"/>
 </element>
-<element name="1KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/5" value="CK101X12" x="13.125" y="26" smashed="yes">
+<element name="1KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/6" value="CK101X12" x="13.125" y="26" smashed="yes">
 <attribute name="NAME" x="13.125" y="26" size="1.9304" layer="26" font="vector" ratio="10" rot="MR0" align="center"/>
 </element>
-<element name="1MΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/5" value="CK101X12" x="26.25" y="51" smashed="yes">
+<element name="1MΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/6" value="CK101X12" x="26.25" y="51" smashed="yes">
 <attribute name="NAME" x="26.25" y="51" size="1.9304" layer="26" font="vector" ratio="10" rot="MR0" align="center"/>
 </element>
-<element name="100KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/5" value="CK101X12" x="52.5" y="51" smashed="yes">
+<element name="100KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/6" value="CK101X12" x="52.5" y="51" smashed="yes">
 <attribute name="NAME" x="52.5" y="51" size="1.9304" layer="26" font="vector" ratio="10" rot="MR0" align="center"/>
 </element>
-<element name="10KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/5" value="CK101X12" x="78.75" y="51" smashed="yes">
+<element name="10KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="CK101X12" package3d_urn="urn:adsk.eagle:package:7745365/6" value="CK101X12" x="78.75" y="51" smashed="yes">
 <attribute name="NAME" x="78.75" y="51" size="1.9304" layer="26" font="vector" ratio="10" rot="MR0" align="center"/>
 </element>
 <element name="R1" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" package="0207/2V" package3d_urn="urn:adsk.eagle:package:7746104/3" value="1" x="87.625" y="18.638784375" smashed="yes" rot="MR30">

@@ -254,7 +254,7 @@ type 0207, grid 2.5 mm</description>
 </package>
 </packages>
 <packages3d>
-<package3d name="CK101X12" urn="urn:adsk.eagle:package:7745365/5" type="model" library_version="9">
+<package3d name="CK101X12" urn="urn:adsk.eagle:package:7745365/6" type="model" library_version="10">
 <description>&lt;b&gt;ROTARY SWITCH&lt;/b&gt;&lt;p&gt;
 C&amp;K</description>
 <packageinstances>
@@ -412,7 +412,7 @@ type 0207, grid 2.5 mm</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="CK101X12" urn="urn:adsk.eagle:component:7745367/4" library_version="9">
+<deviceset name="CK101X12" urn="urn:adsk.eagle:component:7745367/5" library_version="10">
 <gates>
 <gate name="G$1" symbol="DS-A112" x="0" y="0"/>
 </gates>
@@ -434,7 +434,7 @@ type 0207, grid 2.5 mm</description>
 <connect gate="G$1" pin="A" pad="A"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:7745365/5"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:7745365/6"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -493,13 +493,13 @@ type 0207, grid 2.5 mm</description>
 </class>
 </classes>
 <parts>
-<part name="1Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/5"/>
-<part name="10Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/5"/>
-<part name="100Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/5"/>
-<part name="1KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/5"/>
-<part name="1MΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/5"/>
-<part name="100KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/5"/>
-<part name="10KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/5"/>
+<part name="1Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/6"/>
+<part name="10Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/6"/>
+<part name="100Ω" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/6"/>
+<part name="1KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/6"/>
+<part name="1MΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/6"/>
+<part name="100KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/6"/>
+<part name="10KΩ" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="CK101X12" device="" package3d_urn="urn:adsk.eagle:package:7745365/6"/>
 <part name="R1" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="R-EU" device="" package3d_urn="urn:adsk.eagle:package:7746104/3" value="1"/>
 <part name="R2" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="R-EU" device="" package3d_urn="urn:adsk.eagle:package:7746104/3" value="1"/>
 <part name="R3" library="DecadeResistanceBox" library_urn="urn:adsk.eagle:library:7745362" deviceset="R-EU" device="" package3d_urn="urn:adsk.eagle:package:7746104/3" value="1"/>
